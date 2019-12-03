@@ -1,3 +1,6 @@
+// 20191203181934
+// https://raw.githubusercontent.com/ishapkin/FOSUserBundle/6d682aefa677698e337573ee0a4958b5d9e2a976/composer.json
+
 {
   "name": "friendsofsymfony/user-bundle",
   "type": "symfony-bundle",
@@ -43,7 +46,7 @@
     "swiftmailer/swiftmailer": "^4.3 || ^5.0 || ^6.0",
     "symfony/console": "^2.8 || ^3.0 || ^4.0 || ^5.0",
     "symfony/phpunit-bridge": "^2.8 || ^3.0 || ^4.0 || ^5.0",
-    "symfony/yaml": "^2.8 || ^3.0 || ^4.0"
+    "symfony/yaml": "^2.8 || ^3.0 || ^4.0 || ^5.0"
   },
   "config": {
     "sort-packages": true
